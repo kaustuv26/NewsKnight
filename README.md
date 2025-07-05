@@ -29,6 +29,11 @@
 | APIs    | Google News API |
 
 ---
+
+🔗 Link to visit our website : https://claude.ai/public/artifacts/6acc041c-2c6c-45fb-8134-78ad79fd7478
+
+---
+
 👥 Authors
 Built by Team NewsKnight at Hack{0}lution:
      • Kaustuv Ghosh
